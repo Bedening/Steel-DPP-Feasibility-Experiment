@@ -4,8 +4,9 @@ This project contains the data and the python scripts for their evaluation in re
 
 * Blockchain-based Digital Product Passports and their Feasibility in Steelmaking
 * Sadeer Beden, Connor Blake Hurley, Cinzia Giannetti, and Arnold Beckmann
-* BIS 2026
-* doi: tbc
+* In: Węcel, K., Řepa, V. (eds) Business Information Systems. BIS 2026.
+* Lecture Notes in Business Information Processing, vol 584. Springer, Cham.
+* doi: https://doi.org/10.1007/978-3-032-26363-6_29
 
 ## prepare python environment to have pandas
 
